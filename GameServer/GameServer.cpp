@@ -8,7 +8,6 @@
 #include "CoreMacro.h"
 #include "ThreadManager.h"
 
-CoreGlobal Core;
 
 void ThreadMain()
 {
